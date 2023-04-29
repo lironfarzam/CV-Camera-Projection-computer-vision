@@ -1,4 +1,4 @@
-### Camera Projection Program
+# Camera Projection Program
 ## Description
 This Matlab program generates a 3D shape, places a camera in a random location and orientation, and projects the shape onto the camera's sensor surface. The camera's sensor surface is represented as a red square in the camera's coordinate system. The program outputs the image of the shape as seen by the camera.
 
