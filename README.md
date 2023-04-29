@@ -16,7 +16,8 @@ The program waits for the user to press Enter between stages to allow for easier
 The main file for the program is camera.m.
 
 ## Author Information
-This program was written by Liron Parzam, a master's student in computer science at Hadassah College, Jerusalem.
-contact information:
+This program was written by:
+Liron Parzam, a master's student in computer science at Hadassah College, Jerusalem.
+### contact information:
 Email: lironfa@edu.hac.ac.il
 
