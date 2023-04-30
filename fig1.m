@@ -3,7 +3,7 @@ function fig1(R,Ct,P,Q,colors)
 
     figure(1); clf
     axis([-50 50 -50 50 -50 50]);
-    axis equal
+    % axis equal
     hold on
     grid on
     cameratoolbar('ResetCameraAndSceneLight')
