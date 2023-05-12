@@ -17,7 +17,7 @@ function P = ProjectionMatrix(R, Ct, f, px, py, mx, my, s)
          0      0       1    ];
      
     % calculate rotation and translation matrix
-    C = [R -R*Ct];
+    C = [R -R *Ct];
     
     % calculate projection matrix
     P = K * C;

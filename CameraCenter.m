@@ -12,6 +12,5 @@ function Ct = CameraCenter(R)
     % Given the drawn matrix R, calculate the position from which the Z axis of the camera
     % will point exactly to the beginning of the world axes, and the distance of the center
     % of the camera from the beginning of the world will be exactly 25 units.
-    z = R(:,3);
-    Ct = -25*z;
+    Ct = (-25 *R(3,:))';
 end
